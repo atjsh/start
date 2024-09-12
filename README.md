@@ -2,4 +2,4 @@
 
 ![screenshot-1](./screenshot-1.png)
 
-A HTML template for star page
+A HTML template for start page
